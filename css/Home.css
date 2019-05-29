@@ -1,0 +1,40 @@
+table{ 
+        border-collapse:collapse;
+        border:solid 1px #ccc;
+        width:600px;
+}
+td{ 
+        border:solid 1px #ccc; 
+        font-size:12px; 
+        height:30px; 
+        padding-left:10px;}
+input{ 
+        font-size:12px; 
+        width:500px; 
+        height:23px; 
+        border:none;}
+textarea{ 
+        width:98%; 
+        height:200px; 
+        border:none;
+}
+.main{ 
+        margin:0 auto; 
+        width:600px;
+}
+.d{
+        background-color:#066; 
+        color:#fff; 
+        border:none; 
+        width:200px; 
+        height:30px; 
+        cursor:pointer;
+}
+.over{
+        background-color:#f60; 
+        color:#fff; 
+        border:none; 
+        width:200px; 
+        height:30px; 
+        cursor:pointer;
+}
